@@ -1,0 +1,6 @@
+Product Name: The Awesome Super Device
+Developers: Daniel X's Fictional Item Manufacturing Company
+Dimensions: 1ft x 1ft x 1ft
+Available colors: Red, blue, green, purple, silver, gold
+Description: A solid cube of an unknown material. There are no visible patterns on its surface.
+Purpose: To sit around looking cool inside a person's room. It serves no actual function.

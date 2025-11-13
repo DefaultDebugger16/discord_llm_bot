@@ -1,0 +1,15 @@
+{
+  "hybrid:keywords:d7dcc9d811da29e778ac9ff561c247d4": {
+    "return": "{\"high_level_keywords\": [\"Fox characteristics\", \"Symbolism of fox\", \"LightRAG's extension of vector databases\", \"Vector database enhancement\"], \"low_level_keywords\": [\"Cunningness\", \"Adaptability\", \"Mythological roles\", \"Retrieval-augmented generation\", \"Efficient querying\", \"Scalability\", \"Indexing techniques\", \"Query optimization\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "embedding": null,
+    "embedding_shape": null,
+    "embedding_min": null,
+    "embedding_max": null,
+    "original_prompt": "What is the fox known for and how does LightRAG extend vector databases?",
+    "create_time": 1755018484,
+    "update_time": 1755018484,
+    "_id": "hybrid:keywords:d7dcc9d811da29e778ac9ff561c247d4"
+  }
+}
